@@ -10,6 +10,9 @@
     3. Modify tests at ==/test/contract-name.test.js==.
 
 ## Run
-    1. `npm install --force`
-    2. `node deploy.js`
-    3. `npm run test`
+
+```
+    npm install --force
+    node deploy.js
+    npm run test
+```
