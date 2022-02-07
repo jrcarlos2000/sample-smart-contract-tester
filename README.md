@@ -5,9 +5,9 @@
     3. Write your secret key to your local .env file
 
 ## Using your own contract source code
-    1. Paste your own contract source code to ==/contracts==.
-    2. Modify deployer at ==/deploy.js==.
-    3. Modify tests at ==/test/contract-name.test.js==.
+    1. Paste your own contract source code to /contracts.
+    2. Modify deployer at /deploy.js.
+    3. Modify tests at /test/contract-name.test.js.
 
 ## Run
 
